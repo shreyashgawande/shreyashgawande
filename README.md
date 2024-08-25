@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Gawande</h1>
 <h3 align="center">A passionate coder and web developer from India</h3>
 
-- 🌱 I’m currently learning **React ,Blockchain Technology**
+- 🌱 I’m currently learning **React ,Data Science**
 
 - 💬 Ask me about **Node.js Ejs MongoDB Data Structures And Algorithms**
 
